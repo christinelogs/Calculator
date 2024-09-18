@@ -1,0 +1,8 @@
+.calculator {
+    margin-left: 4em;
+    margin-right: 4em;
+}
+
+.col-3:hover {
+    transition: color, 0.15s;
+}
